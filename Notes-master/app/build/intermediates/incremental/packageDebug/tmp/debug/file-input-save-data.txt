@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Mar 16 13:13:50 GMT+08:00 2024
+0.baseType=DIRECTORY
+0.base=C\:\\Android item\\Notes-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
